@@ -5,7 +5,7 @@ UHUZAM Webinar series will consist of 4 weeks.
 ### Episode 1 - Introduction to Deep Learning
 <p>
 &emsp;<li>AI, ML, DL, Data terms and differences<br></li>
-&emsp;<li>Computer Vision ıntroduction</li><br>
+&emsp;<li>Computer Vision ıntroduction</li>
 &emsp;<li>Computer Vision Usage Areas</li><br>
 &emsp;<li>DL Frameworks and Libraries</li><br>
 &emsp;<li>DL Working Environments</li><br>
