@@ -3,11 +3,11 @@
 UHUZAM Webinar series will consist of 4 weeks. 
 
 ### Episode 1 - Introduction to Deep Learning
-  ##### 1-AI, ML, DL, Data terms and differences
-  ##### 2-Computer Vision ıntroduction
-  ##### 3-Computer Vision Usage Areas 
-  ##### 4-DL Frameworks and Libraries
-  ##### 5-DL Working Environments
+&nbsp;1-AI, ML, DL, Data terms and differences<br>
+&nbsp;2-Computer Vision ıntroduction<br>
+&nbsp;3-Computer Vision Usage Areas<br>
+&nbsp;4-DL Frameworks and Libraries<br>
+&nbsp;5-DL Working Environments<br>
 
 ### Episode 2 - Tensorflow, Github and Code Review
 1-What is Tensorflow?<br>
