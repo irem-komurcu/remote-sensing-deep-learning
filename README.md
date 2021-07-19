@@ -58,6 +58,8 @@ I made a 4 week webinar on this subject. It was for the beginner level on deep l
 ### Episode 3 - Raster Imagery Basics 
 <p>This episode made for especially remote sensing and deep learning. After the first two week, I wanted to give about remote sensing with deep learning and make the segmentation example</p>
 <p><a href="https://www.youtube.com/watch?v=xURCt5VX1hU&ab_channel=UHUZAMCSCRSUHUZAMCSCRS">Here,</a> You can reach the webinar for Episode 3 that I gave with UHUZAM. The webinar language is Turkish.</p>
+<p>You can find the presentation slide<a href="https://github.com/irem-komurcu/remote-sensing-deep-learning/blob/main/3-Raster-Imagery-and-Deep-Learning.pdf"> here.</a> The slide language is English.</p>
+
 <p>
 &emsp;1-Some Examples in Remote Sensing and Deep Learning<br>
 &emsp;2-Data Basics (Various Data Types (Hyperspectral - SAR etc))<br>
@@ -70,6 +72,7 @@ I made a 4 week webinar on this subject. It was for the beginner level on deep l
 
 ### Episode 4 - Deep Learning on 3D Point Clouds
 <p><a href="https://www.youtube.com/watch?v=Fr11bsdCAvg&t=16s&ab_channel=UHUZAMCSCRS">Here,</a> You can reach the webinar for Episode 4 that I gave with UHUZAM. The webinar language is Turkish.</p>
+<p>You can find the presentation slide<a href="https://github.com/irem-komurcu/remote-sensing-deep-learning/blob/main/4-Deep-Learning-on-3D%20Point-Clouds.pdf"> here.</a> The slide language is English.</p>
 <p>
 &emsp;1-Capturing a 3D World<br>
 &emsp;2-3D Problems and Deep Learning Techniques<br>
